@@ -29,4 +29,4 @@ cmake --build .
 
 ## What's Next
 
-- Password strength Grader
+- Password Strength Grader
